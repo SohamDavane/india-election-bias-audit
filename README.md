@@ -12,13 +12,15 @@
 
 ## 🖥️ Live Demo
 
-🔗 **[View Live App →](https://your-app.streamlit.app)** *(replace after deployment)*
+🔗 **[View Live App →]([https://your-app.streamlit.app](https://india-election-bias-audit.streamlit.app/))**
 
 ---
 
 ## 📸 Screenshots
 
-> Dashboard overview, gender bias page, alerts panel — add screenshots here after running locally.
+<img width="1537" height="826" alt="image" src="https://github.com/user-attachments/assets/1cc624c9-db8f-4e50-abec-aa3a12bac9ea" />
+
+<img width="1885" height="817" alt="image" src="https://github.com/user-attachments/assets/dcf9e34f-0f0c-409e-8901-3f4841d8bb9c" />
 
 ---
 
