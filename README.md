@@ -12,7 +12,7 @@
 
 ## 🖥️ Live Demo
 
-🔗 **[View Live App →]([https://your-app.streamlit.app](https://india-election-bias-audit.streamlit.app/))**
+🔗 **[View Live App →](https://india-election-bias-audit.streamlit.app/)**
 
 ---
 
